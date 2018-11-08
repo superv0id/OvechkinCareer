@@ -1,2 +1,3 @@
-# supervoidtest
-This is a test repos for me to learn
+# OvechkinCareer
+This is primarily a learning exercise for me to grow my skills with Python ML libraries
+More to come...
